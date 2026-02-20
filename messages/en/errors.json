@@ -1,0 +1,17 @@
+{
+  "system": {
+    "connectionLost": {
+      "title": "No Connection to Server!",
+      "message": "It seems like there is a problem with your internet connection.",
+      "code": "Error {code}"
+    },
+    "notFound": {
+      "title": "Page Not Found",
+      "message": "Unfortunately, the page you were looking for could not be found."
+    },
+    "serverError": {
+      "title": "Server Error",
+      "message": "A server-side error occurred, please try again later."
+    }
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "sidebar": {
+    "menu": {
+      "profile": "Profile",
+      "myTours": "My Tours",
+      "transactions": "Transactions"
+    }
+  },
+  "profile": {
+    "sections": {
+      "account": "Account Information",
+      "personal": "Personal Information",
+      "bank": "Bank Account Information"
+    },
+    "notSet": "-"
+  },
+  "tours": {
+    "card": {
+      "tourId": "Tour ID",
+      "amountPaid": "Amount Paid",
+      "departure": "Departure Date",
+      "return": "Return Date"
+    },
+    "transport": {
+      "flight": "Travel by Flight",
+      "ship": "Travel by Ship",
+      "bus": "Travel by Bus"
+    },
+    "emptyState": {
+      "title": "You haven't booked any tours yet",
+      "action": "View Tours"
+    },
+    "status": {
+      "active": "Active",
+      "cancelled": "Cancelled",
+      "completed": "Completed",
+      "ongoing": "Ongoing"
+    },
+    "empty": "You haven't booked any tours yet"
+  },
+  "transactions": {
+    "tableHeader": {
+      "dateTime": "Date and Time",
+      "amount": "Amount ({currency})",
+      "type": "Transaction Type",
+      "orderId": "Order Number"
+    },
+    "types": {
+      "registration": "Tour Registration",
+      "walletTopUp": "Wallet Top-up",
+      "refund": "Refund"
+    },
+    "orderPrefix": "Order",
+    "emptyState": "No transactions have been recorded yet."
+  }
+}

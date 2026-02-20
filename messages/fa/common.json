@@ -1,0 +1,47 @@
+{
+  "brand": "تورینو",
+  "units": {
+    "currency": "تومان",
+    "day": "{count} روز",
+    "night": "{count} شب"
+  },
+  "fields": {
+    "mobile": "شماره موبایل",
+    "code": "کد تایید",
+    "fullName": "نام و نام خانوادگی",
+    "email": "ایمیل",
+    "nationalId": "کد ملی",
+    "birthDate": "تاریخ تولد",
+    "gender": "جنسیت",
+    "cardNumber": "شماره کارت",
+    "shabaNumber": "شماره شبا",
+    "origin": "مبدا",
+    "destination": "مقصد",
+    "date": "تاریخ",
+    "accountNumber": "شماره حساب"
+  },
+  "gender": {
+    "male": "مرد",
+    "female": "زن"
+  },
+  "actions": {
+    "confirm": "تایید",
+    "cancel": "انصراف",
+    "retry": "تلاش مجدد",
+    "submit": "ثبت",
+    "save": "ذخیره",
+    "next": "مرحله بعد",
+    "previous": "مرحله قبل",
+    "backToHome": "بازگشت به صفحه اصلی",
+    "support": "تماس با پشتیبانی",
+    "delete": "حذف",
+    "back": "بازگشت",
+    "edit": "ویرایش اطلاعات",
+    "add": "افزودن"
+  },
+  "status": {
+    "loading": "در حال بارگذاری...",
+    "noData": "داده‌ای برای نمایش وجود ندارد",
+    "error": "مشکلی پیش آمده است"
+  }
+}

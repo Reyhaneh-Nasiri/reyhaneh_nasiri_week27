@@ -1,0 +1,13 @@
+{
+  "passenger": {
+    "title": "Passenger Details"
+  },
+  "summary": {
+    "title": "Trip Summary",
+    "tourName": "{tourName} Tour",
+    "finalPrice": "Final Price"
+  },
+  "actions": {
+    "submit": "Submit and Final Purchase"
+  }
+}

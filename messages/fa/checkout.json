@@ -1,0 +1,13 @@
+{
+  "passenger": {
+    "title": "مشخصات مسافر"
+  },
+  "summary": {
+    "title": "خلاصه سفر",
+    "tourName": "تور {tourName}",
+    "finalPrice": "قیمت نهایی"
+  },
+  "actions": {
+    "submit": "ثبت و خرید نهایی"
+  }
+}

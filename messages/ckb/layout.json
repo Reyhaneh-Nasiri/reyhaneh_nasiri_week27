@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "title": "{brand} | بۆککردنی ئۆنلاینی گەشتی گەشتیاری",
+    "description": "باشترین گەشتە ناوخۆیی و دەرەکییەکان بە گونجاوترین نرخ لە {brand}"
+  },
+  "header": {
+    "menu": {
+      "home": "سەرەتا",
+      "services": "خزمەتگوزارییەکانی گەشتیاری",
+      "about": "دەربارەی ئێمە",
+      "contact": "پەیوەندی"
+    },
+    "auth": {
+      "loginRegister": "چوونەژوورەوە | ناونووسین"
+    },
+    "userMenu": {
+      "profile": "زانیارییەکانی هەژمار",
+      "logout": "چوونەدەرەوە لە هەژمار"
+    }
+  },
+  "footer": {
+    "support": "تەلەفۆنی پشتیوانی: {phoneNumber}",
+    "copyright": "هەموو مافەکانی ئەم ماڵپەڕە بۆ {brand} پارێزراوە.",
+    "sections": {
+      "customerServices": {
+        "title": "خزمەتگوزارییەکانی کڕیار",
+        "onlineSupport": "پشتیوانی ئۆنلاین",
+        "buyingGuide": "ڕێنمایی کڕین",
+        "refundGuide": "ڕێنمایی گەڕاندنەوە",
+        "faq": "پرسیار و وەڵام"
+      },
+      "brandInfo": {
+        "about": "دەربارەی ئێمە",
+        "contact": "پەیوەندی",
+        "whyUs": "بۆچی {brand}",
+        "insurance": "دڵنیایی گەشت"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "passenger": {
+    "title": "تایبەتمەندییەکانی گەشتیار"
+  },
+  "summary": {
+    "title": "کورتەی گەشت",
+    "tourName": "گەشتی {tourName}",
+    "finalPrice": "نرخی کۆتایی"
+  },
+  "actions": {
+    "submit": "تۆمارکردن و کڕینی کۆتایی"
+  }
+}

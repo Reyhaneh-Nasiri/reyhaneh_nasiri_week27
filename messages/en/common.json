@@ -1,0 +1,47 @@
+{
+  "brand": "Torino",
+  "units": {
+    "currency": "Toman",
+    "day": "{count} Day(s)",
+    "night": "{count} Night(s)"
+  },
+  "fields": {
+    "mobile": "Mobile Number",
+    "code": "Verification Code",
+    "fullName": "Full Name",
+    "email": "Email",
+    "nationalId": "National ID",
+    "birthDate": "Birth Date",
+    "gender": "Gender",
+    "cardNumber": "Card Number",
+    "shabaNumber": "IBAN (Shaba)",
+    "origin": "Origin",
+    "destination": "Destination",
+    "date": "Date",
+    "accountNumber": "Account Number"
+  },
+  "gender": {
+    "male": "Male",
+    "female": "Female"
+  },
+  "actions": {
+    "confirm": "Confirm",
+    "cancel": "Cancel",
+    "retry": "Retry",
+    "submit": "Submit",
+    "save": "Save",
+    "next": "Next Step",
+    "previous": "Previous Step",
+    "backToHome": "Back to Home",
+    "support": "Contact Support",
+    "delete": "Delete",
+    "back": "Back",
+    "edit": "Edit Information",
+    "add": "Add"
+  },
+  "status": {
+    "loading": "Loading...",
+    "noData": "No data available to display",
+    "error": "Something went wrong"
+  }
+}

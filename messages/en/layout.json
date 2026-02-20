@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "title": "{brand} | Online Travel Tour Booking",
+    "description": "The best domestic and international tours at the most affordable prices on {brand}"
+  },
+  "header": {
+    "menu": {
+      "home": "Home",
+      "services": "Travel Services",
+      "about": "About Us",
+      "contact": "Contact Us"
+    },
+    "auth": {
+      "loginRegister": "Login | Register"
+    },
+    "userMenu": {
+      "profile": "Account Information",
+      "logout": "Log Out"
+    }
+  },
+  "footer": {
+    "support": "Support Phone: {phoneNumber}",
+    "copyright": "All rights to this website belong to {brand}.",
+    "sections": {
+      "customerServices": {
+        "title": "Customer Services",
+        "onlineSupport": "Online Support",
+        "buyingGuide": "Buying Guide",
+        "refundGuide": "Refund Guide",
+        "faq": "FAQ"
+      },
+      "brandInfo": {
+        "about": "About Us",
+        "contact": "Contact Us",
+        "whyUs": "Why {brand}",
+        "insurance": "Travel Insurance"
+      }
+    }
+  }
+}

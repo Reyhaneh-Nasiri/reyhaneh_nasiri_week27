@@ -1,0 +1,29 @@
+{
+  "list": {
+    "title": "All Tours",
+    "empty": "No tours were found with these specifications.",
+    "card": {
+      "book": "Book Now",
+      "imageAlt": "Tour image of {destination}"
+    }
+  },
+  "details": {
+    "title": "{tourName} Tour",
+    "buy": "Book and Purchase",
+    "capacity": "Maximum {count} people",
+    "insurance": "Insurance {amount} {currency}",
+    "specs": {
+      "leader": "Tour leader from origin",
+      "program": "Travel itinerary",
+      "assurance": "Quality assurance"
+    },
+    "labels": {
+      "origin": "Origin",
+      "departure": "Departure date",
+      "return": "Return date",
+      "transport": "Transportation",
+      "capacity": "Capacity",
+      "insurance": "Insurance"
+    }
+  }
+}

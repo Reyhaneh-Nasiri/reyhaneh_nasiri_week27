@@ -1,6 +1,9 @@
+import { useTranslations } from 'next-intl';
 export default function Home() {
+   const t = useTranslations('common');
   return (
-     <h1>Torion</h1>
+    <div>
+      <h1>{t('brand')}</h1>
+    </div>
   );
 }
-

@@ -1,0 +1,40 @@
+{
+  "hero": {
+    "brandDescription": "<brand>{brand}</brand> Organizer of the best domestic and international tours at the best prices"
+  },
+  "general": {
+    "noResults": "Unfortunately, no tickets were found for this route on the selected date.",
+    "searching": "Searching for the best prices..."
+  },
+  "search": {
+    "origin": "Origin",
+    "destination": "Destination",
+    "date": "Date",
+    "submit": "Search",
+    "noResults": "Unfortunately, no tour with the specifications \"{query}\" was found"
+  },
+  "whyUs": {
+    "title": "Why <brand>{brand}</brand>?",
+    "subtitle": "Nature and Historical Tours",
+    "desc": "If you would like to see a natural attraction up close and camp in the heart of nature or book a room in an eco-lodge, you should purchase nature tours. However, if you want to visit the tourist attractions and historical monuments of a specific destination, you can purchase cultural and historical tours."
+  },
+  "phoneBooking": {
+    "title": "Phone Booking from <brand>{brand}</brand>",
+    "message": "To wherever you want!",
+    "action": "More Information"
+  },
+  "features": {
+    "price": {
+      "title": "Best Price",
+      "description": "Ask us for the most cost-effective and cheapest tour prices."
+    },
+    "support": {
+      "title": "Support",
+      "description": "24-hour support and guidance throughout all stages of your trip."
+    },
+    "satisfaction": {
+      "title": "User Satisfaction",
+      "description": "Satisfaction of more than {userCount} users with our tours."
+    }
+  }
+}

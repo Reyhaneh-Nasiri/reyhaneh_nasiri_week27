@@ -1,0 +1,29 @@
+{
+  "list": {
+    "title": "همه تورها",
+    "empty": "توری با این مشخصات پیدا نشد.",
+    "card": {
+      "book": "رزرو",
+      "imageAlt": "تصویر تور {destination}"
+    }
+  },
+  "details": {
+    "title": "تور {tourName}",
+    "buy": "رزرو و خرید",
+    "capacity": "حداکثر {count} نفر",
+    "insurance": "بیمه {amount} {currency}",
+    "specs": {
+      "leader": "تورلیدر از مبدأ",
+      "program": "برنامه سفر",
+      "assurance": "تضمین کیفیت"
+    },
+    "labels": {
+      "origin": "مبدأ",
+      "departure": "تاریخ رفت",
+      "return": "تاریخ برگشت",
+      "transport": "حمل و نقل",
+      "capacity": "ظرفیت",
+      "insurance": "بیمه"
+    }
+  }
+}

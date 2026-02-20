@@ -1,0 +1,35 @@
+{
+  "input": {
+    "required": "Please enter your {field}",
+    "invalid": "The entered {field} is not valid"
+  },
+  "select": {
+    "required": "Please select {field}"
+  },
+  "mobile": {
+    "invalid": "The mobile number entered is incorrect (Example: 09123456789)"
+  },
+  "otp": {
+    "required": "Please enter the verification code",
+    "invalid": "The code entered is not correct",
+    "expired": "The verification code has expired, please request again"
+  },
+  "gender": {
+    "required": "Please select your gender"
+  },
+  "cardNumber": {
+    "invalid": "The card number must be 16 digits"
+  },
+  "shabaNumber": {
+    "invalid": "The Sheba number is invalid (must start with IR)"
+  },
+  "searchForm": {
+    "origin": {
+      "invalid": "The entered origin is not in the city list."
+    },
+    "destination": {
+      "sameAsOrigin": "The destination cannot be the same as the origin.",
+      "invalid": "The entered destination is not in the city list."
+    }
+  }
+} 

@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "title": "{brand} | رزرو آنلاین تور مسافرتی",
+    "description": "بهترین تورهای داخلی و خارجی با به‌صرفه‌ترین قیمت در {brand}"
+  },
+  "header": {
+    "menu": {
+      "home": "صفحه اصلی",
+      "services": "خدمات گردشگری",
+      "about": "درباره ما",
+      "contact": "تماس با ما"
+    },
+    "auth": {
+      "loginRegister": "ورود | ثبت‌نام"
+    },
+    "userMenu": {
+      "profile": "اطلاعات حساب کاربری",
+      "logout": "خروج از حساب کاربری"
+    }
+  },
+  "footer": {
+    "support": "تلفن پشتیبانی: {phoneNumber}",
+    "copyright": "کلیه حقوق این وب‌سایت متعلق به {brand} می‌باشد.",
+    "sections": {
+      "customerServices": {
+        "title": "خدمات مشتریان",
+        "onlineSupport": "پشتیبانی آنلاین",
+        "buyingGuide": "راهنمای خرید",
+        "refundGuide": "راهنمای استرداد",
+        "faq": "پرسش و پاسخ"
+      },
+      "brandInfo": {
+        "about": "درباره ما",
+        "contact": "تماس با ما",
+        "whyUs": "چرا {brand}",
+        "insurance": "بیمه مسافرتی"
+      }
+    }
+  }
+}

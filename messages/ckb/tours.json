@@ -1,0 +1,29 @@
+{
+  "list": {
+    "title": "هەموو گەشتەکان",
+    "empty": "هیچ گەشتێک بەم تایبەتمەندییانە نەدۆزرایەوە.",
+    "card": {
+      "book": "بۆککردن",
+      "imageAlt": "وێنەی گەشتی {destination}"
+    }
+  },
+  "details": {
+    "title": "گەشتی {tourName}",
+    "buy": "بۆککردن و کڕین",
+    "capacity": "زۆرترین {count} کەس",
+    "insurance": "دڵنیایی (تەئمین) {amount} {currency}",
+    "specs": {
+      "leader": "ڕێبەری گەشت لە شوێنی دەستپێکەوە",
+      "program": "بەرنامەی گەشت",
+      "assurance": "گرەنتی جۆری"
+    },
+    "labels": {
+      "origin": "شوێنی دەستپێک",
+      "departure": "ڕێکەوتی ڕۆشتن",
+      "return": "ڕێکەوتی گەڕانەوە",
+      "transport": "گواستنەوە",
+      "capacity": "توانای وەرگرتن",
+      "insurance": "دڵنیایی (تەئمین)"
+    }
+  }
+}

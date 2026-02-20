@@ -1,0 +1,42 @@
+{
+  "auth": {
+    "otpSent": "Verification code sent successfully",
+    "otpResent": "Verification code has been resent",
+    "loginSuccess": "Successfully logged into your account",
+    "logoutSuccess": "Successfully logged out"
+  },
+  "payment": {
+    "success": "Payment completed successfully",
+    "failed": "Payment failed, please try again"
+  },
+  "profile": {
+    "updateSuccess": "Information updated successfully",
+    "updateFailed": "Error updating information"
+  },
+  "system": {
+    "timeout": "Server took too long to respond. Please try again.",
+    "network": "Could not connect to server. Please check your internet connection.",
+    "unknown": "An unknown error occurred. Please try again."
+  },
+  "status": {
+    "400": "The submitted information is not valid.",
+    "401": "Please log in to your account to continue.",
+    "403": "You do not have permission to access this section.",
+    "404": "Item not found or it may have been deleted.",
+    "500": "Internal server error. Please try again later."
+  },
+  "security": {
+    "sessionExpired": "Your session has expired, please log in again"
+  },
+  "tours": {
+    "tourReserved": "Tour reserved successfully",
+    "tourCancelled": "Tour reservation cancelled",
+    "tourFull": "The tour capacity is full",
+    "noToursFound": "The requested tour was not found"
+  },
+  "transactions": {
+    "walletLow": "Insufficient wallet balance",
+    "transactionPending": "Transaction is being processed",
+    "transactionNotFound": "Order not found"
+  }
+}

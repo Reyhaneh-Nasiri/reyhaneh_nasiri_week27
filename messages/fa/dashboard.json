@@ -1,0 +1,56 @@
+{
+  "sidebar": {
+    "menu": {
+      "profile": "پروفایل",
+      "myTours": "تورهای من",
+      "transactions": "تراکنش‌ها"
+    }
+  },
+  "profile": {
+    "sections": {
+      "account": "اطلاعات حساب کاربری",
+      "personal": "اطلاعات شخصی",
+      "bank": "اطلاعات حساب بانکی"
+    },
+    "notSet": "-"
+  },
+  "tours": {
+    "card": {
+      "tourId": "شماره تور",
+      "amountPaid": "مبلغ پرداخت شده",
+      "departure": "تاریخ رفت",
+      "return": "تاریخ برگشت"
+    },
+    "transport": {
+      "flight": "سفر با هواپیما",
+      "ship": "سفر با کشتی",
+      "bus": "سفر با اتوبوس"
+    },
+    "emptyState": {
+      "title": "هنوز توری رزرو نکرده‌اید",
+      "action": "مشاهده تورها"
+    },
+    "status": {
+      "active": "فعال",
+      "cancelled": "لغو شده",
+      "completed": "به اتمام رسیده",
+      "ongoing": "در حال برگزاری"
+    },
+    "empty": "هنوز توری رزرو نکرده‌اید"
+  },
+  "transactions": {
+    "tableHeader": {
+      "dateTime": "تاریخ و ساعت",
+      "amount": "مبلغ ({currency})",
+      "type": "نوع تراکنش",
+      "orderId": "شماره سفارش"
+    },
+    "types": {
+      "registration": "ثبت نام در تور گردشگری",
+      "walletTopUp": "شارژ کیف پول",
+      "refund": "استرداد وجه"
+    },
+    "orderPrefix": "سفارش",
+    "emptyState": "هنوز هیچ تراکنشی ثبت نشده است."
+  }
+}
