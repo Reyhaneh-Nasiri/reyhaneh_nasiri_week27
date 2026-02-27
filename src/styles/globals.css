@@ -1,0 +1,8 @@
+@import "tailwindcss";
+@import "./tokens.css";
+
+@layer utilities {
+  .transition-app-base {
+    transition: all 0.2s ease-in-out;
+  }
+}

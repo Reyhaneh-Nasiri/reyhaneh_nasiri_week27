@@ -5,7 +5,7 @@ import { IntlProvider } from "@/providers/IntlProvider";
 import type { Metadata } from "next";
 import { getMessages } from "next-intl/server";
 import { notFound } from "next/navigation";
-import "../globals.css";
+import "@/styles/globals.css";
 
 type RootLayoutProps = {
   children: React.ReactNode;

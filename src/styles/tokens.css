@@ -1,0 +1,83 @@
+@theme {
+  /* Brand & Identity */
+  --color-app-primary: rgb(var(--color-app-green-500));
+  --color-app-primary-strong: rgb(var(--color-app-green-600));
+  --color-app-accent: rgb(var(--color-app-blue-500));
+  --color-app-on-primary: rgb(var(--color-app-white));
+
+  /* Surface & Backgrounds */
+  --color-app-bg-base: rgb(var(--color-app-white));
+  --color-app-bg-surface: rgb(var(--color-app-white));
+  --color-app-bg-muted: rgb(var(--color-app-gray-50));
+  --color-app-bg-elevated: rgb(var(--color-app-white));
+  --color-app-bg-secondary: rgb(var(--color-app-gray-100));
+  --color-app-bg-overlay: rgb(var(--color-app-black) / 50%);
+  --color-app-bg-input: transparent;
+
+  /* Typography */
+  --color-app-text-primary: rgb(var(--color-app-gray-800));
+  --color-app-text-secondary: rgb(var(--color-app-gray-600));
+  --color-app-text-tertiary: rgb(var(--color-app-gray-500));
+  --color-app-text-muted: rgb(var(--color-app-gray-400));
+  --color-app-text-inverse: rgb(var(--color-app-white));
+  --color-app-text-link: var(--color-app-accent);
+
+  /* Typography Weights */
+  --font-weight-app-body: 400;
+  --font-weight-app-subtle: 300;
+  --font-weight-app-emphasis: 500;
+  --font-weight-app-heading: 600;
+
+  /* Borders */
+  --color-app-border-default: rgb(var(--color-app-gray-400));
+  --color-app-border-subtle: rgb(var(--color-app-gray-200));
+  --color-app-border-focus: var(--color-app-primary);
+
+  /* Status */
+  --color-app-success-content: rgb(16 185 129);
+  --color-app-success-surface: rgb(236 253 245);
+  --color-app-danger-content: rgb(244 63 94);
+  --color-app-danger-surface: rgb(255 241 242);
+  --color-app-warning-content: rgb(245 158 11);
+  --color-app-warning-surface: rgb(255 251 235);
+  --color-app-info-content: rgb(14 165 233);
+  --color-app-info-surface: rgb(240 249 255);
+
+  /* Disabled */
+  --color-app-surface-disabled: rgb(var(--color-app-gray-200));
+  --color-app-on-disabled: rgb(var(--color-app-gray-400));
+  --color-app-border-disabled: rgb(var(--color-app-gray-200));
+
+  /* Focus */
+  --color-app-focus-ring: rgb(from var(--color-app-primary) r g b / 30%);
+
+  /* Price */
+  --color-app-price: var(--color-app-accent);
+
+  /* Shadow */
+  --shadow-app-sm: 0px 0px 2px 0px rgb(var(--color-app-black) / 25%);
+  --shadow-app-md: 0px 1px 4px 0px rgb(var(--color-app-black) / 16%);
+}
+
+@layer base {
+  :root {
+    /* Primitive */
+    --color-app-white: 255 255 255;
+    --color-app-black: 0 0 0;
+    --color-app-gray-50: 248 248 248;
+    --color-app-gray-100: 244 244 244;
+    --color-app-gray-200: 217 217 217;
+    --color-app-gray-300: 179 179 179;
+    --color-app-gray-400: 125 125 125;
+    --color-app-gray-500: 89 89 89;
+    --color-app-gray-600: 68 68 68;
+    --color-app-gray-700: 44 44 44;
+    --color-app-gray-800: 40 40 40;
+    --color-app-gray-900: 23 23 23;
+    --color-app-blue-500: 0 158 202;
+    --color-app-green-500: 40 167 69;
+    --color-app-green-600: 16 65 27;
+    --color-app-red-500: 212 0 0;
+    --color-app-yellow-500: 209 185 0;
+  }
+}
