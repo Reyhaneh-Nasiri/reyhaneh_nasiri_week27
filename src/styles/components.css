@@ -1,0 +1,52 @@
+@layer components {
+  .btn-app-primary,
+  .btn-app-primary-outline,
+  .btn-app-primary-strong {
+    padding: 0.5rem 1rem;
+    border-radius: 8px;
+    font-weight: var(--font-weight-emphasis);
+    font-size: 16px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    transition: all .2s ease-in-out;
+    &:not(:disabled):hover {
+      transform: scale(1.04);
+    }
+    &:active {
+      transform: scale(0.97);
+    }
+    &:disabled {
+      background-color: var(--color-app-surface-disabled);
+      color: var(--color-app-on-disabled);
+      cursor: default;
+      transform: none;
+    }
+  }
+  .btn-app-primary {
+    background-color: var(--color-app-primary);
+    color: var(--color-app-on-primary);
+    &:not(:disabled):hover {
+      background-color: rgb(from var(--color-app-primary) r g b / 85%);
+    }
+  }
+
+  .btn-app-primary-outline {
+    background-color: transparent;
+    border: 2px solid var(--color-app-primary);
+    color: var(--color-app-primary);
+    &:not(:disabled):hover {
+      border-color: rgb(from var(--color-app-primary) r g b / 70%);
+      color: rgb(from var(--color-app-primary) r g b / 70%);
+    }
+  }
+
+  .btn-app-primary-strong {
+    background-color: var(--color-app-primary-strong);
+    color: var(--color-app-on-primary);
+    &:not(:disabled):hover {
+      background-color: rgb(from var(--color-app-primary-strong) r g b / 85%);
+    }
+  }
+}
